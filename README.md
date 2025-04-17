@@ -6,8 +6,11 @@ This repo contains everything I built during the workshop, along with notes and 
 ---
 
 ## 📹 Featured In This Video  
-Watch the complete experience of the Flutter Workshop here:  
-➡️ [YouTube Video:  Flutter Workshop at Sharda University]([https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=_85pXRpRxyc))
+Watch the complete experience of the Flutter Workshop here: 
+![PHOTO-2025-04-17-04-42-21](https://github.com/user-attachments/assets/f781d449-2f21-45da-b2ad-6e8cee0269cb)
+
+
+➡️ [YouTube Video:  Flutter Workshop at Sharda University]((https://www.youtube.com/watch?v=_85pXRpRxyc)
 
 ---
 
