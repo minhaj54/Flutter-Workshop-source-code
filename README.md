@@ -7,14 +7,13 @@ This repo contains everything I built during the workshop, along with notes and 
 
 ## 📹 Featured In This Video  
 Watch the complete experience of the Flutter Workshop here:  
-➡️ [YouTube Video: Inside a Flutter Workshop | Projects, Learning & GitHub Code](https://www.youtube.com/your-video-link)
+➡️ [YouTube Video:  Flutter Workshop at Sharda University]([https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=_85pXRpRxyc))
 
 ---
 
 ## 💡 What This Project Includes:
 - 📱 Simple Flutter UI built during the workshop
 - 🧱 Use of core Flutter widgets (Column, Row, Container, etc.)
-- 🎨 Clean and minimal design approach
 - 🚀 Hands-on learning from start to finish
 
 ---
